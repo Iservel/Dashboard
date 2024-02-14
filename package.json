@@ -2,7 +2,7 @@
   "name": "project_syncfusion_dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iservel.github.io/Dashboard",
+  "homepage": "https://iservel.github.io/Dashboard/",
   "dependencies": {
     "@syncfusion/ej2": "^24.1.47",
     "@syncfusion/ej2-react-calendars": "^24.1.47",
